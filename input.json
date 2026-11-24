@@ -1,0 +1,14 @@
+{
+  "boards": [
+    "hotspot"
+  ],
+  "maxResultsPerBoard": 50,
+  "minHotValue": 0,
+  "dedupeAcrossBoards": true,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

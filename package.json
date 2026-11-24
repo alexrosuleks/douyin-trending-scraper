@@ -1,0 +1,20 @@
+{
+  "name": "douyin-trending-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Douyin Trending Scraper: Scrape Douyin (\u6296\u97f3) trending topics from all 5 hot-search boards: rank, topic, hot value, views, video count, cover and link. No login needed. JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "douyin"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
